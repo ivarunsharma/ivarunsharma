@@ -1,24 +1,193 @@
-# 💫 About Me:
-👯 I’m looking to collaborate on Generative AI and LLM-based projects.<br>🤝 I’m looking for help with - Scaling and productionizing GenAI applications.<br>🌱 I’m currently learning - Deep diving into Generative AI — LLMs, RAG, and real-world AI applications<br>💬 Ask me about - GenAI, emerging tech, and automation.<br>⚡ Fun fact - 14 years in tech and still learning something new every day.
+<!-- ╔══════════════════════════════════════════════════════╗ -->
+<!-- ║          VARUN SHARMA — GITHUB PROFILE README        ║ -->
+<!-- ╚══════════════════════════════════════════════════════╝ -->
 
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ivarunsharma) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ivarunsharma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact4varun@gmail.com) 
+<!-- Animated typing header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Varun+Sharma+%F0%9F%91%8B;GenAI+Engineer+%7C+LLM+Builder;Turning+AI+ideas+into+real+products;14+years+in+tech+%E2%80%94+still+levelling+up)](https://git.io/typing-svg)
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ivarunsharma&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ivarunsharma&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ivarunsharma&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ivarunsharma&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=120&section=header&text=&fontColor=000000&animation=fadeIn" width="100%"/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- Profile views + social badges -->
+<p>
+  <a href="https://www.linkedin.com/in/ivarunsharma/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FF41" />
+  </a>
+  <a href="mailto:contact4varun@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00FF41" />
+  </a>
+  <a href="https://ivarunsharma.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=githubpages&logoColor=00FF41" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ivarunsharma&style=for-the-badge&color=00FF41&labelColor=0A0A0A&label=PROFILE+VIEWS" />
+</p>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ivarunsharma&icon=0&color=0)](https://visitcount.itsvg.in)
+```
+ ██╗   ██╗ █████╗ ██████╗ ██╗   ██╗███╗   ██╗    ███████╗██╗  ██╗ █████╗ ██████╗ ███╗   ███╗ █████╗
+ ██║   ██║██╔══██╗██╔══██╗██║   ██║████╗  ██║    ██╔════╝██║  ██║██╔══██╗██╔══██╗████╗ ████║██╔══██╗
+ ██║   ██║███████║██████╔╝██║   ██║██╔██╗ ██║    ███████╗███████║███████║██████╔╝██╔████╔██║███████║
+ ╚██╗ ██╔╝██╔══██║██╔══██╗██║   ██║██║╚██╗██║    ╚════██║██╔══██║██╔══██║██╔══██╗██║╚██╔╝██║██╔══██║
+  ╚████╔╝ ██║  ██║██║  ██║╚██████╔╝██║ ╚████║    ███████║██║  ██║██║  ██║██║  ██║██║ ╚═╝ ██║██║  ██║
+   ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝   ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝
+```
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3&section=header&reversal=false" width="100%"/>
+</div>
+
+---
+
+## `> whoami`
+```python
+varun = {
+    "name"       : "Varun Sharma",
+    "role"       : "GenAI Engineer & Automation Architect",
+    "experience" : "14+ years in tech",
+    "focus"      : ["LLMs", "RAG", "AI Agents", "Intelligent Automation"],
+    "building"   : "Real-world AI systems that scale",
+    "collab"     : "Generative AI & LLM-based projects",
+    "learning"   : "Deep-diving into LLMs, RAG, and production GenAI apps",
+    "ask_me"     : "GenAI, emerging tech, automation",
+    "fun_fact"   : "14 years in tech — and still learning something new every day ⚡",
+    "contact"    : "contact4varun@gmail.com"
+}
+```
+
+---
+
+## `> ls ./projects`
+
+<div align="center">
+
+| Project | Description | Stack | Status |
+|---------|-------------|-------|--------|
+| 🤖 [**ai-news-digest**](https://github.com/ivarunsharma/ai-news-digest) | AI-powered news dashboard — fetches live headlines, summarizes with Claude Haiku, stores to SQLite | Python · Streamlit · Claude Haiku · NewsAPI · SQLite | ![Active](https://img.shields.io/badge/ACTIVE-00FF41?style=flat-square&labelColor=000) |
+| ✍️ [**ai-summarizer**](https://github.com/ivarunsharma/ai-summarizer) | Summarize any text or URL in seconds — 4 styles including ELI5 & Key Takeaways | Python · Streamlit · Claude API · newspaper3k | ![Active](https://img.shields.io/badge/ACTIVE-00FF41?style=flat-square&labelColor=000) |
+| 🐍 [**GenaipythonExamples**](https://github.com/ivarunsharma/GenaipythonExamples) | Hands-on Generative AI code examples with Python | Python · LLMs · GenAI | ![Active](https://img.shields.io/badge/ACTIVE-00FF41?style=flat-square&labelColor=000) |
+| 🌐 [**ivarunsharma.github.io**](https://ivarunsharma.github.io) | Interactive AI Pipeline — animated explainer for GenAI vs Traditional AI | HTML · CSS · JavaScript | ![Live](https://img.shields.io/badge/LIVE-00FF41?style=flat-square&labelColor=000) |
+| 🧠 [**awesome-llm-apps**](https://github.com/ivarunsharma/awesome-llm-apps) | Curated collection of LLM apps with AI Agents & RAG | OpenAI · Anthropic · Gemini · OSS models | ![Starred](https://img.shields.io/badge/STARRED-FFD700?style=flat-square&labelColor=000) |
+| 📚 [**awesome-generative-ai-guide**](https://github.com/ivarunsharma/awesome-generative-ai-guide) | One-stop repo for GenAI research, interview prep & notebooks | HTML · Notebooks · Resources | ![Starred](https://img.shields.io/badge/STARRED-FFD700?style=flat-square&labelColor=000) |
+| 🤖 [**500-AI-Agents-Projects**](https://github.com/ivarunsharma/500-AI-Agents-Projects) | Curated AI agent use cases across industries | AI Agents · Multi-industry | ![Starred](https://img.shields.io/badge/STARRED-FFD700?style=flat-square&labelColor=000) |
+
+</div>
+
+---
+
+## `> cat tech_stack.json`
+
+### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Bash_Script-000000?style=for-the-badge&logo=gnu-bash&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FF41" />
+</p>
+
+### 🤖 AI / ML
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Anaconda-000000?style=for-the-badge&logo=anaconda&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Anthropic_Claude-000000?style=for-the-badge&logo=anthropic&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=00FF41" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoftazure&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Jenkins-000000?style=for-the-badge&logo=jenkins&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Bitbucket-000000?style=for-the-badge&logo=bitbucket&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=jira&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=00FF41" />
+</p>
+
+### 🗄️ Databases & Messaging
+<p>
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Apache_Tomcat-000000?style=for-the-badge&logo=apache-tomcat&logoColor=00FF41" />
+</p>
+
+### 🧩 Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/Angular.js-000000?style=for-the-badge&logo=angularjs&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/jQuery-000000?style=for-the-badge&logo=jquery&logoColor=00FF41" />
+</p>
+
+---
+
+## `> cat stats.log`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ivarunsharma&show_icons=true&theme=chartreuse-dark&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&border_color=00FF41&hide_border=false&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ivarunsharma&theme=highcontrast&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&border=00FF41" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ivarunsharma&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=00FF4120&hide_border=false&border_color=00FF41" width="98%" />
+
+</div>
+
+---
+
+## `> cat trophies.log`
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ivarunsharma&theme=matrix&no-frame=false&no-bg=true&margin-w=6&margin-h=6&column=6" />
+</div>
+
+---
+
+## `> tail -f current_focus.log`
+```bash
+[2026] ██████████████████░░  Generative AI & LLMs         ████ PRIMARY FOCUS
+[2026] ████████████████░░░░  RAG Pipelines                ████ ACTIVE
+[2026] ██████████████░░░░░░  AI Agents & Automation       ████ BUILDING
+[2026] ████████████░░░░░░░░  Productionizing GenAI        ████ SCALING
+[2026] ██████████░░░░░░░░░░  Cloud (AWS / Azure)          ████ DEEPENING
+```
+
+---
+
+## `> cat collaboration.md`
+
+<div align="center">
+```
+╔═══════════════════════════════════════════════════════╗
+║                                                       ║
+║   🤝  Open to collaborate on:                         ║
+║                                                       ║
+║   ✅  GenAI & LLM-based products                      ║
+║   ✅  RAG systems & AI Agents                          ║
+║   ✅  Scaling & productionizing AI applications        ║
+║   ✅  Intelligent automation pipelines                 ║
+║                                                       ║
+║   📬  contact4varun@gmail.com                         ║
+║   🔗  linkedin.com/in/ivarunsharma                    ║
+║                                                       ║
+╚═══════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer&animation=fadeIn" width="100%"/>
+  <br/>
+  <em style="color:#00FF41">// Building the future, one model at a time.</em>
+</div>
