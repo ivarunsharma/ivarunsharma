@@ -169,15 +169,15 @@ varun = {
 ```
 ╔═══════════════════════════════════════════════════════╗
 ║                                                       ║
-║   🤝  Open to collaborate on:                         ║
+║  🤝 Open to collaborate on:                          ║
 ║                                                       ║
-║   ✅  GenAI & LLM-based products                      ║
-║   ✅  RAG systems & AI Agents                          ║
-║   ✅  Scaling & productionizing AI applications        ║
-║   ✅  Intelligent automation pipelines                 ║
+║  ✅ GenAI & LLM-based products                       ║
+║  ✅ RAG systems & AI Agents                          ║
+║  ✅ Scaling & productionizing AI applications        ║
+║  ✅ Intelligent automation pipelines                 ║
 ║                                                       ║
-║   📬  contact4varun@gmail.com                         ║
-║   🔗  linkedin.com/in/ivarunsharma                    ║
+║  📬 contact4varun@gmail.com                          ║
+║  🔗 linkedin.com/in/ivarunsharma                     ║
 ║                                                       ║
 ╚═══════════════════════════════════════════════════════╝
 ```
