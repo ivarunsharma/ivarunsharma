@@ -67,13 +67,13 @@ varun = {
 
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
-| 🤖 [**ai-news-digest**](https://github.com/ivarunsharma/ai-news-digest) | AI-powered news dashboard — fetches live headlines, summarizes with Claude Haiku, stores to SQLite | Python · Streamlit · Claude Haiku · NewsAPI · SQLite | ![Active](https://img.shields.io/badge/ACTIVE-00FF41?style=flat-square&labelColor=000) |
-| ✍️ [**ai-summarizer**](https://github.com/ivarunsharma/ai-summarizer) | Summarize any text or URL in seconds — 4 styles including ELI5 & Key Takeaways | Python · Streamlit · Claude API · newspaper3k | ![Active](https://img.shields.io/badge/ACTIVE-00FF41?style=flat-square&labelColor=000) |
-| 🐍 [**GenaipythonExamples**](https://github.com/ivarunsharma/GenaipythonExamples) | Hands-on Generative AI code examples with Python | Python · LLMs · GenAI | ![Active](https://img.shields.io/badge/ACTIVE-00FF41?style=flat-square&labelColor=000) |
-| 🌐 [**ivarunsharma.github.io**](https://ivarunsharma.github.io) | Interactive AI Pipeline — animated explainer for GenAI vs Traditional AI | HTML · CSS · JavaScript | ![Live](https://img.shields.io/badge/LIVE-00FF41?style=flat-square&labelColor=000) |
-| 🧠 [**awesome-llm-apps**](https://github.com/ivarunsharma/awesome-llm-apps) | Curated collection of LLM apps with AI Agents & RAG | OpenAI · Anthropic · Gemini · OSS models | ![Starred](https://img.shields.io/badge/STARRED-FFD700?style=flat-square&labelColor=000) |
-| 📚 [**awesome-generative-ai-guide**](https://github.com/ivarunsharma/awesome-generative-ai-guide) | One-stop repo for GenAI research, interview prep & notebooks | HTML · Notebooks · Resources | ![Starred](https://img.shields.io/badge/STARRED-FFD700?style=flat-square&labelColor=000) |
-| 🤖 [**500-AI-Agents-Projects**](https://github.com/ivarunsharma/500-AI-Agents-Projects) | Curated AI agent use cases across industries | AI Agents · Multi-industry | ![Starred](https://img.shields.io/badge/STARRED-FFD700?style=flat-square&labelColor=000) |
+| 🤖 [**ai-news-digest**](https://github.com/ivarunsharma/ai-news-digest) | AI-powered news dashboard — fetches live headlines, summarizes with Claude Haiku, stores to SQLite | Python · Streamlit · Claude Haiku · NewsAPI · SQLite | ![Active](https://img.shields.io/badge/ACTIVE-00FF41?style=for-the-badge&labelColor=000) |
+| ✍️ [**ai-summarizer**](https://github.com/ivarunsharma/ai-summarizer) | Summarize any text or URL in seconds — 4 styles including ELI5 & Key Takeaways | Python · Streamlit · Claude API · newspaper3k | ![Active](https://img.shields.io/badge/ACTIVE-00FF41?style=for-the-badge&labelColor=000) |
+| 🐍 [**GenaipythonExamples**](https://github.com/ivarunsharma/GenaipythonExamples) | Hands-on Generative AI code examples with Python | Python · LLMs · GenAI | ![Active](https://img.shields.io/badge/ACTIVE-00FF41?style=for-the-badge&labelColor=000) |
+| 🌐 [**ivarunsharma.github.io**](https://ivarunsharma.github.io) | Interactive AI Pipeline — animated explainer for GenAI vs Traditional AI | HTML · CSS · JavaScript | ![Live](https://img.shields.io/badge/LIVE-00FF41?style=for-the-badge&labelColor=000) |
+| 🧠 [**awesome-llm-apps**](https://github.com/ivarunsharma/awesome-llm-apps) | Curated collection of LLM apps with AI Agents & RAG | OpenAI · Anthropic · Gemini · OSS models | ![Starred](https://img.shields.io/badge/STARRED-FFD700?style=for-the-badge&labelColor=000) |
+| 📚 [**awesome-generative-ai-guide**](https://github.com/ivarunsharma/awesome-generative-ai-guide) | One-stop repo for GenAI research, interview prep & notebooks | HTML · Notebooks · Resources | ![Starred](https://img.shields.io/badge/STARRED-FFD700?style=for-the-badge&labelColor=000) |
+| 🤖 [**500-AI-Agents-Projects**](https://github.com/ivarunsharma/500-AI-Agents-Projects) | Curated AI agent use cases across industries | AI Agents · Multi-industry | ![Starred](https://img.shields.io/badge/STARRED-FFD700?style=for-the-badge&labelColor=000) |
 
 </div>
 
@@ -147,7 +147,7 @@ varun = {
 ## `> cat trophies.log`
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ivarunsharma&theme=matrix&no-frame=false&no-bg=true&margin-w=6&margin-h=6&column=6" />
+  <img src="https://github-trophies.vercel.app/?username=ivarunsharma&theme=matrix&no-frame=false&no-bg=true&margin-w=6&margin-h=6&column=6" />
 </div>
 
 ---
